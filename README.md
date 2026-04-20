@@ -24,12 +24,13 @@ your /32.
 ***DNS server is 100.64.0.0***
 
 ## Current cgTLDs:
-| gTLD           | Description                                           |
-|----------------|-------------------------------------------------------|
-| .gltd          | Not obtainable.                                       |
-| .fuck          | Can be obtainable at dot.fuck                         |
-| .linux         | Owned by [carsoncoder](mailto:carson@carsoncoder.com) |
-| .unix          | Owned by [carsoncoder](mailto:carson@carsoncoder.com) |
+| gTLD           | Description                                                            |
+|----------------|------------------------------------------------------------------------|
+| .gltd          | Not obtainable.                                                        |
+| .fuck          | Domains ending in this gTLD can be requested for free at free.gtld     |
+| .cute          | Domains ending in this gTLD can be requested for free at free.gtld     |
+| .linux         | Owned by [carsoncoder](mailto:carson@carsoncoder.com)                  |
+| .unix          | Owned by [carsoncoder](mailto:carson@carsoncoder.com)                  |
 
 
 # Our custom CA
