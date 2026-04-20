@@ -29,6 +29,7 @@ your /32.
 | .gltd          | Not obtainable.                                                        |
 | .fuck          | Domains ending in this gTLD can be requested for free at free.gtld     |
 | .cute          | Domains ending in this gTLD can be requested for free at free.gtld     |
+| .lg          | Domains ending in this gTLD can be requested for free at free.gtld     |
 | .linux         | Owned by [carsoncoder](mailto:carson@carsoncoder.com)                  |
 | .unix          | Owned by [carsoncoder](mailto:carson@carsoncoder.com)                  |
 
